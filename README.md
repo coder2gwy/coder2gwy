@@ -19,7 +19,7 @@
 
 **建议、吐槽、提问请点进[这个issue](https://github.com/coder2gwy/coder2gwy/issues/1)。写作不易，您的star✨是我继续完善指南的动力。**
 
-咨询请发邮件到mianmiantech@qq.com
+咨询、聊天请发邮件到mianmiantech@qq.com，静候佳音。
 
 PS.由于高校带编教师岗位少、门槛愈发高，我会花较多的笔墨和精力在考公务员/事业编制方面。
 
