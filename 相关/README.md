@@ -4,9 +4,9 @@
     - 公考雷达：报考选岗
 - 论坛
     - [QZZN——国内最大考公论坛](https://bbs.qzzn.com/)
-    - [程序员考公【知识星球】](https://github.com/coder2gwy/coder2gwy/tree/main/%E5%92%A8%E8%AF%A2)
 - 公众号
     - 齐麒公考
+    - 程序员考公
 ## 拓展阅读
 - 方法论
     - [行测的关键点：快](https://www.zhihu.com/question/266860999/answer/613142901)
