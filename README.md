@@ -17,7 +17,9 @@
 
 本指南的目标人群是想要**想进体制内的程序员**，尤其适合那些经过深思熟虑之后，发现程序员这份职业不能满足自己需求的人。
 
-**建议、吐槽、提问请点进[这个issue](https://github.com/coder2gwy/coder2gwy/issues/1)。写作不易，您的star✨是我继续完善指南的动力。**咨询请发邮件到mianmiantech@qq.com
+**建议、吐槽、提问请点进[这个issue](https://github.com/coder2gwy/coder2gwy/issues/1)。写作不易，您的star✨是我继续完善指南的动力。**
+
+咨询请发邮件到mianmiantech@qq.com
 
 PS.由于高校带编教师岗位少、门槛愈发高，我会花较多的笔墨和精力在考公务员/事业编制方面。
 
